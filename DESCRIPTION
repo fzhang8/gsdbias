@@ -4,10 +4,8 @@ Version: 1.0
 Authors@R: 
     c(person(given = "Fan",family = "Zhang",role = c("aut", "cre"),
            email = "fan.zhang4@pfizer.com"),
-      person(given = "Hui",family = "Zhang",role = c("aut"),
-           email = "Hui.Zhang2@pfizer.com"),
-      person(given = "Enayet",family = "Talukder",role = c("aut"),
-           email = "enayet.talukder@pfizer.com"))
+      person(given = "Hui",family = "Zhang",role = c("aut")),
+      person(given = "Enayet",family = "Talukder",role = c("aut"))
 Description: Calculate overall and/or conditional bias under Brownian motion framework of group sequential design as well as realization to time-to-event endpoint.
 License: MIT + file LICENSE
 Encoding: UTF-8
